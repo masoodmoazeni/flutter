@@ -1,5 +1,7 @@
 # flutter
 
+run this command with hiddyfy off and shekan on
+
 install flutter
 ```
 ping pub.dev
@@ -15,4 +17,8 @@ flutter pub cache repair
 flutter clean
 flutter pub get
 
+```
+create new project
+```
+ctr + shift + p
 ```
